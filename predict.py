@@ -45,7 +45,6 @@ unk_idx = word2idx.get("<unk>")
 #laod model
 with open(args.saved_args_path, 'rb') as f:
     saved_args = pickle.load(f)
-saved_args.embeddings_path = None
 model = TransformerDecoder(is_training=False, args=saved_args)
 with model.graph.as_default():
     sess = tf.Session()

@@ -22,7 +22,7 @@ def _format_line(line):
 
 
 def _classify(data):
-    batch_size = min(args.max_samples, len(data) // saved_args.maxlen)
+    batch_size = min(20, len(data) // saved_args.maxlen)
     if batch_size == 0:
         prime = np.array(data[:saved_args.maxlen])
         prime = np.atleast_2d(np.tile(prime, saved_args.maxlen // len(prime) + 1)[:saved_args.maxlen])
@@ -33,7 +33,6 @@ def _classify(data):
     return np.argmax(preds)
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--max_samples', type=int, default=20)
 parser.add_argument('--ckpt_path', type=str, default="./ckpt")
 parser.add_argument('--vocab_path', type=str, default="./corpora/vocab.txt")
 parser.add_argument('--saved_args_path', type=str, default="./ckpt/args.pkl")

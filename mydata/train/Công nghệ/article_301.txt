@@ -1,7 +1,0 @@
-LG trình làng máy giặt tích hợp trí tuệ nhân tạo
-
-Dòng máy giặt mới có tên gọi LG AI DD, sử dụng cửa trước, trang bị động cơ dẫn động trực tiếp tích hợp cùng công nghệ Trí tuệ nhân tạo AI.
-
-LG AI DD là kết quả 20 năm nhà sản xuất Hàn Quốc. Tích hợp công nghệ trí tuệ nhân tạo AI, dòng máy giặt vừa ra mắt này không chỉ có khả năng nhận biết khối lượng đồ giặt mà còn cảm ứng để nhận biết chất liệu vải vóc được giặt trong lồng giặt.
-Áp dụng công nghệ Deep Learning, máy giặt sẽ kết nối và đối chiếu với 20.000 dữ liệu về thói quen sử dụng máy giặt để thiết lập cài đặt tối ưu cho chu trình giặt. Cụ thể hơn, chiếc máy giặt thông minh của LG có khả năng nhận biết các chất liệu vải khác nhau, khối lượng giặt để lập trình chu trình giặt với các tùy chỉnh về chuyển động, nhiệt độ và thời gian giặt.
-- Công nghệ ThinQ: Với Wi-Fii, người dùng không chỉ dễ dàng điều khiển máy giặt từ xa, mà còn có thể dễ dàng tự chuẩn đoán các trục trặc xảy ra khi vận hành.

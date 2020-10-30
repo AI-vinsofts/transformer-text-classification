@@ -1,9 +1,0 @@
-Galaxy A72 tầm trung sắp gây sốt với chip 5nm nhanh hơn Snapdragon 865 Plus
-
-Samsung vừa cho biết sẽ phát hành chip Exynos 1080 dựa trên quy trình 5nm nhưng lại hướng đến phân khúc tầm trung.
-
-Exynos 1080 là chip sử dụng lõi Cortex-A78 đầu tiên trong ngành dựa trên quy trình 5nm. Hơn nữa, sản phẩm đầu tiên sử dụng chip này là Galaxy A72 thay vì những thiết bị cao cấp hơn, vốn dựa vào chip Exynos 2100.
-Được biết, Exynos 1080 sẽ sử dụng quy trình LPE 5nm tiên tiến nhất của Samsung, về cơ bản cao hơn hai thế hệ so với quy trình 8nm được sử dụng trong Exynos 980. Đồng thời, Exynos 1080 cũng sẽ sử dụng kiến trúc CPU kép với các lõi Cortex-A78 và Cortex-A55 mới nhất của ARM. Thêm vào đó, nó sẽ tích hợp GPU Mali-G78 mới nhất của ARM.
-Báo cáo cho biết, hiệu suất CPU của Exynos 1080 có thể tăng lên 20% và hiệu suất GPU có thể tăng lên 25% so với tiền nhiệm. Điểm chạy AnTuTu có thể đạt 650.000, ngang với Snapdragon 865 Plus hiện tại.
-Samsung dự kiến sẽ chính thức phát hành Exynos 1080 vào quý 4 năm nay. Ngoài Galaxy A72, Vivo sẽ là một thương hiệu khác dự kiến ra mắt smartphone với chip này, dự kiến cũng trong quý 4 với tên gọi Vivo X60. Tuy nhiên, hiện tại vẫn chưa rõ liệu Galaxy A72 hay Vivo X60 sẽ được ra mắt sớm hơn.
-Trước đó, Vivo đã quảng cáo Vivo X60 là chiếc smartphone hàng đầu chuyên nghiệp trong lĩnh vực hình ảnh, có nghĩa bản kế nhiệm của Vivo X50 sẽ mang đến hiệu suất camera xuất sắc, nhưng các chi tiết cụ thể hơn vẫn chưa được đưa ra.

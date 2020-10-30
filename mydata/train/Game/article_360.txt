@@ -1,7 +1,0 @@
-Nâng cấp card đồ họa cho HP dv6700 - VnExpress Số hóa
-
-
-
-Em có người thân ở Mỹ mang về một laptop HP dv6700. Em cài game Call of duty 4 nhưng chơi không được, hình ảnh bị chậm và giật nữa. Có phải do card đồ hoạ của máy này yếu không?
-Call of Duty 4 là một game hành động được ứng dụng giao diện đồ họa 3D rất nhiều, nên ngoài cấu hình máy mạnh cần được trang bị thêm card đồ họa rời phục vụ cho tác vụ xử lý đồ họa.
-Về mặt cấu hình cơ bản của HP dv6700 chỉ được trang bị card đồ họa onboard Intel GMA X3100 có khả năng đáp ứng được nhu cầu công việc, học tập, giải trí và có thể chơi các loại Game 2D hay 3D thông thường.

@@ -1,8 +1,0 @@
-Câu đố tìm vàng khiến bao người loanh quanh tìm lời giải
-
-Cùng thử sức xem bạn có trả lời đúng câu đố này không nhé!
-
-Nếu lời nhắn trên hộp thứ 3 là sự thật, thì lời nhắn trên hộp đầu tiên cũng là sự thật, và nó sai với dữ kiện cho trước (chỉ có 1 lời nhắn là sự thật). Vì thế vàng không thể nằm trong hộp thứ 2.
-Hộp 1 có vàng. Vì chỉ có 1 hộp có vàng và chỉ có 1 hộp ghi đúng nội dung nên hộp 1 và 2 đều ghi trong hộp k có vàng tức là 1 trong 2 hộp ghi đúng hộp thứ 3 sẽ là hộp ghi sai. do đó hộp 2 không có vàng là hộp ghi đúng nội dung. Hộp 1 ghi sai không có vàng nhưng là hộp có vàng.
-Giả sử lời nhắn trong họp 1 là thật=>họp 1 không có vàng =>họp 2 nói dối=>họp 2 có vàng=>họp 3 nói thật....Trái với để là 2 họp dối và 1 họp thật Giả sử họp 1 dối=>vàng ở họp 1=>họp 2 thật=>họp 3 dối=>thỏa mãn Vậy vàng ở hộp 1
-Vàng ở hộp thứ 1, giải thích: nếu vàng ở hộp thứ 2 thì câu trên hòm thứ 2 là nói dối, còn câu trên hòm thứ 1 và thứ 3 là nói thật-> 2 thật 1 dối, còn nếu vàng ở hộp thứ 3 thì trên hộp 1 và 2 là nói thật, còn hộp 3 nói dối => 2 thật 1 dối, nếu vàng ở trong hộp thứ 1 thì trên hộp 1 nói dối, hộp 2 nói thật và hộp t3 nói dối=> 2 dối 1 thật. kết luận đáp án là hộp thứ 1 đựng vàng.

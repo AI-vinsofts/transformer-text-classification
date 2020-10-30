@@ -1,7 +1,0 @@
-Flappy Bird trở lại nhưng không dành cho smartphone - VnExpress Số hóa
-
-Nguyễn Hà Đông đã tái sinh Flappy Bird, có thêm chế độ đa người chơi nhưng chỉ dành cho Amazon Fire TV.
-
-Phiên bản mới mang tên Flappy Birds Family được viết riêng cho bộ giải mã tín hiệu của Amazon. Ở chế độ đa người chơi, game chia đôi màn hình và có thêm các nhân vật mới, những vật cản mới giống các con ma màu trắng (hoặc con bạch tuộc) trên hành trình bay...
-Trước đó, Nguyễn Hà Đông đã gỡ bỏ Flappy Bird trên kho ứng dụng Google Play và iOS và tháng 2 - một quyết định gây ngỡ ngàng với rất nhiều người. Từ tháng 5, tác giả khẳng định sẽ bổ sung thêm tính năng nhiều người chơi và sẽ đưa game trở lại vào tháng 8. Tuy nhiên, sự trở lại vào rạng sáng ngày 2/8 này không như mọi người vẫn hình dung.
-Nguyễn Hà Đông chọn đưa game lên Fire TV có thể vì TV sẽ là thiết bị tốt nhất để chia đôi màn hình và giúp người chơi giải trí với bạn bè, người thân. Hiện chưa rõ liệu tác giả có đưa game lên iOS và Android thời gian tới hay không.

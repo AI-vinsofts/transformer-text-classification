@@ -1,8 +1,0 @@
-Mỹ: Phi công kỳ cựu lái chiến đấu cơ F-16 thua trắng trí tuệ nhân tạo
-
-Một phi công kỳ cựu Mỹ gần đây đã tham chiến trong môi trường giả lập với đối thủ là trí tuệ nhân tạo (AI).
-
-Nằm trong chương trình tiến hóa không chiến (ACE) của Cơ quan Nghiên cứu Dự án tiên tiến Quốc phòng Mỹ (DARPA), các công ty Mỹ, bao gồm cả gã khổng lồ Lockheed Martin, đã phát triển AI tự điều khiển chiến đấu cơ.
-Theo quy định, hai bên chỉ được sử dụng pháo ở mũi máy bay, không được sử dụng tên lửa. AI cũng bị ràng buộc về vật lý đối với chiến đấu cơ, nhưng không cần tuân thủ các nguyên tắc chiến đấu mà không quân Mỹ đề ra.
-Đáng chú ý, AI đánh bại con người do công ty Heron, có trụ sở ở Maryland và Virginia phát triển. Heron chỉ mất một năm phát triển AI điều khiển chiến đấu cơ F-16 và thậm chí còn đánh bại cả AI do Lockheed Martin phát triển.
-Đại tá Daniel Javorsek, người phụ trách chương trình ACE, nói viễn cảnh AI được giao trọng trách điều khiển chiến đấu cơ “vẫn còn rất xa”. Mục tiêu của chương trình đã đánh giá mức độ khả thi.

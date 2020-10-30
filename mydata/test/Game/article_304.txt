@@ -1,9 +1,0 @@
-So sánh khả năng chơi game của iPad và Transformer Prime - VnExpress Số hóa
-
-iPad và Transformer Prime đều chơi game một cách mượt mà nhưng tablet của Asus có thể tạo ra một số hiệu ứng đặc biệt.
-> Tìm hiểu chip bốn lõi trên tablet mạnh nhất thế giới
-
-Slashgear vừa tung ra video so sánh khả năng chơi game trên iPad và Transformer Prime. Hai tựa game được test trên hai chiếc máy tính bảng này bao gồm: Riptide GP và Shadowgun.
-Riptide GP là game đua motor dưới nước. Game này được nhà phát triển cùng với Nvidia hợp tác tối ưu mọi tính năng cũng như đồ hoạ. iPad 2 nằm phía bên trái chạy Riptide GP bản mới nhất trên video, còn Asus Transformer Prime ở bên phải. Người dùng có thể thấy, Riptide GP trên Asus Transformer Prime có hiệu ứng hình ảnh tốt hơn iPad 2 nhờ vào sức mạnh của chip Tegra 3. Tất cả những hiệu ứng như sóng nước, tăng tốc hay nước bắn vào màn hình khi motor nhảy một đoạn dài đều được thể hiện rõ ràng trên Prime.
-Shadowgun mới chỉ xuất hiện trên nền tảng Android một vài tuần trước. Slashgear cho biết, Nvidia cũng đã phải làm việc với đội ngũ phát triển game này nhằm tối ưu hoá cho tablet của mình. Cả iPad và Transformer Prime đều có thể chạy Shadowgun một cách mượt mà. Tablet của Asus có thể tạo ra hiệu ứng đặc biệt khi người dùng bắn súng xuống nước.
-Tuy vậy, hai phiên bản game Riptide GP và Shadowgun sử dụng trên Transformer Prime mới chỉ là bản thử nghiệm dành cho các nhà phát triển do đó sẽ có một số khác biệt khi ứng dụng này được tung lên Android Market.

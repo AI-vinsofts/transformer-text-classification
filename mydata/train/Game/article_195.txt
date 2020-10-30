@@ -1,7 +1,0 @@
-Game rắn ăn mồi hồi sinh trên iOS, Android - VnExpress Số hóa
-
-Snake, trò chơi huyền thoại và từng rất quen thuộc với người dùng điện thoại Nokia, đã được phát triển lại cho thiết bị iOS, Android và Windows Phone.
-
-Taneli Armanto, kỹ sư Nokia đứng đằng sau dự án Snake, đã hợp tác với Rumilus Design để trình làng Snake Rewind dành cho smartphone chạy hệ điều hành của Apple, Google và Microsoft. Khác với những trò chơi ăn theo Snake khác đang có mặt trên App Store và Google Play, đây được coi là sự trở lại chính thức của game vang bóng một thời Snake.
-Hiện nay, người dùng có quá nhiều lựa chọn khi muốn chơi game với hàng trăm nghìn trò chơi được đưa lên kho ứng dụng. Nhưng ở thời smartphone chưa thịnh hành, Snake là một trong những trò chơi phổ biến nhất thế giới trên thiết bị di động nhờ sự đơn giản, dễ chơi và không kém phần gay cấn.
-Snake từng được mệnh danh là video game được chơi nhiều nhất mọi thời đại. Ước tính có khoảng 1 tỷ người tham gia chơi trò rắn ăn mồi này. Lợi thế của game một phần là nhờ được cài sẵn trên hàng loạt thiết bị Nokia - hãng điện thoại lớn nhất thế giới cách đây 10 năm.

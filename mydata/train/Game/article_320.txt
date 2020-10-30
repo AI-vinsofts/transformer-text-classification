@@ -1,8 +1,0 @@
-AMD hồi sinh dòng chip FX với 8 nhân xử lý - VnExpress Số hóa
-
-Tại hội chợ công nghiệp game E3, công ty AMD cho ra mắt bộ vi xử lý 8 nhân đầu tiên dành cho máy tính để bàn mang tên mã Zambezi và dựa trên kiến trúc Bulldozer.
->Chip tốc độ 4 GHz đầu tiên của Intel / Hội chợ công nghiệp game E3
-
-Chip FX được AMD nhắm đến những cỗ máy tính cao cấp nhất, chuyên chơi game và xử lý đồ họa."Việc kết hợp vi xử lý FX và card đồ họa mới của AMD sẽ đem lại cho PC một sức mạnh khủng khiếp", Leslie Sobon, Phó giám đốc marketing của AMD, phát biểu.
-Công ty này dự kiến sẽ tung ra thị trường FX-4000, FX-6000, FX-8000 sử dụng từ 4 đến 8 nhân. Các sản phẩm còn có thể tự ép xung lên thêm 1 GHz. Theo những tin đồn trước, FX-8150P là chip mạnh nhất với tốc độ mặc định từ 4 đến 4,4 GHz, điện năng tiêu thụ tối đa 125 W.
-Thương hiệu bộ vi xử lý FX tượng trưng cho công nghệ tốt và mạnh nhất của AMD. Tuy nhiên, vào năm 2007, công ty này đã khai tử dòng sản phẩm này vì hiệu năng thua chip Core 2 duo của Intel.

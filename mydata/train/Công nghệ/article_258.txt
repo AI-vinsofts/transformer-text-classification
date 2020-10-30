@@ -1,9 +1,0 @@
-Thêm bằng chứng khẳng định iPhone 12 không kèm EarPods
-
-Mã được tìm thấy trong iOS 14.2 beta cho thấy gần như chắc chắn rằng Apple sẽ không mang EarPods đến hộp đựng iPhone 12.
-
-Một thay đổi trong bản sao giữa iOS 14 và iOS 14.2 đã được tìm thấy khi nói về “giảm tiếp xúc với năng lượng RF”. Trong iOS 14, bản sao nói về việc sử dụng “tai nghe được cung cấp”, nhưng trong iOS 14.2 thì văn bản đó đã loại bỏ từ “được cung cấp”.
-Cần nhớ rằng, Apple cũng sử dụng “tai nghe được cung cấp” khi đề cập đến việc giảm tiếp xúc với năng lượng RF trên các phiên bản iOS trước đây. Về cơ bản, điều này gần như khẳng định kế hoạch loại bỏ tai nghe EarPods đi kèm hộp đựng iPhone 12 trong kế hoạch sắp tới của Apple.
-Điều này khẳng định thêm các báo cáo trước đây từ Ming-chi Kuo và Dan Ives vào tháng 5 và tháng 6 khi cho biết Apple sẽ loại bỏ tai nghe EarPods khỏi hộp đựng những chiếc iPhone sắp tới của mình. Công ty có thể tung ra một số hình thức khuyến mãi để khuyến khích khách hàng nâng cấp lên AirPods khi mua iPhone mới.
-Việc loại bỏ EarPods cũng có thể đi kèm với việc loại bỏ bộ sạc 5W, điều mà Aplpe được cho là sẽ thực hiện với iPhone 12. Công ty trước đó đã loại bỏ bộ sạc khỏi Apple Watch Series 6 và Apple Watch SE, vì vậy iPhone 12 hoàn toàn có thể là bước tiếp theo.
-Nếu cả hai tin đồn đều chính xác, dòng iPhone 12 chỉ bao gồm cáp sạc bên trong hộp đựng. Đây sẽ là cáp USB-C to Lightning thay vì USB-A to Lightning như trước đây, và đặc biệt nó sẽ là cáp dạng bện hứa hẹn bền hơn nhiều.

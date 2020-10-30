@@ -1,8 +1,0 @@
-Game xếp bài kinh điển lần đầu có trên iPhone và Android - VnExpress Số hóa
-
-Trò chơi Solitaire đã ra đời cách đây hơn 25 năm nhưng phải tới giờ, Microsoft mới quyết định đưa nó ra khỏi môi trường Windows.
-
-Người dùng iOS và Android có thể tải miễn phí bộ sưu tập Solitaire Collection về thiết bị với năm trò chơi Klondike, Spider, FreeCell, Pyramid và Tripeaks. Họ có thể chơi riêng hoặc so tài cùng bạn bè.
-Ra đời từ năm 1990 nhưng cho tới tận năm 2010, Windows Solitaire vẫn là trò chơi máy tính phổ biến nhất thế giới trước khi bị Microsoft đưa ra khỏi hệ điều hành Windows 8.
-Phiên bản đầu tiên của Solitaire là Klondike, do chuyên gia Susan Kare thiết kế còn người viết code là Wes Cherry. Ngay khi đang phát triển, Cherry đã dự đoán game này sẽ được nhân viên văn phòng yêu thích nên đã chèn mã "boss key" trong game để khi nhấn nút, bộ bài sẽ biến mất và màn hình hiển thị vài đoạn mã .C (giả vờ như đang làm việc). Tuy nhiên, sau đó Microsoft đã yêu cầu ông gỡ bỏ tính năng này.
-Windows Solitaire đã thu hút gần 120 triệu người chơi và theo Gizmodo, đây là game hiếm hoi được nhân viên văn phòng ưa chuộng đến vậy vì nó không chứa yếu tố bạo lực hay sex.

@@ -1,7 +1,0 @@
-Tetris - game xếp hình trong ký ức tuổi thơ thế hệ 8x - VnExpress Số hóa
-
-Đến giờ tôi vẫn không hiểu tại sao hồi đó lại bị thu hút bởi một chiếc máy màn hình đen trắng, game cũng chỉ là những điểm đen pixel trên màn hình.
-
-Những game hiện nay đồ họa đẹp, thiết kế cách chơi phong phú đa dạng, nhiều kiểu máy, tựa game khác nhau… Nhớ lại lúc nhỏ máy chơi game không phải ai cũng có. Thời đó chúng tôi thường phải thuê máy để chơi, loại máy phổ biến khi ấy là Brick game, với game phổ biến là Tetris (xếp hình).
-Cách chơi đơn giản, không cần nhiều hướng dẫn, cầm máy là có thể dễ dàng biết chơi sau vài phút làm quen, nhưng cũng gây "nghiền". Anh em hào hứng chơi để vượt điểm số từng người. Dù là máy chơi game đơn giản nhưng vẫn có âm thanh đầy đủ, sau khi qua mỗi màn chơi nhạc hiệu lại nổi lên. Đến giờ tôi vẫn không hiểu tại sao hồi đó lại bị thu hút bởi một chiếc máy màn hình đen trắng, game cũng chỉ là những điểm đen pixel trên màn hình.
-Tetris là một trong những trò chơi điện tử đầu tiên được thiết kế và phát triển bởi Alexey Pajitnov, được tạo ra vào ngày 6/6/1984, trong lúc ông đang làm việc tại Trung tâm Tính toán Dorodnicyn của Viện hàn lâm Khoa học Liên Xô. Ông lấy tên của trò chơi từ tiền tố tetra- của tiếng Hy Lạp, có nghĩa là "bốn" (mỗi bộ phần trong trò chơi, gọi là Tetromino, có bốn phần) và quần vợt (tennis), trò thể thao Pajitnov thích nhất.

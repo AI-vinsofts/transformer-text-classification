@@ -1,9 +1,0 @@
-Rank Liên Quân đang bị phá nát vì người chơi lợi dụng lỗi game để trục lợi
-
-Chỉ sau một bản cập nhật, tình trạng “bug” game bỗng tăng vọt vì một trang bị lỗi.
-
-Việc game xảy ra các lỗi (bug) là điều không thể tránh khỏi với bất cứ tựa game nào. Các nhà phát hành luôn khuyến khích người chơi không nên lợi dụng các “bug” này, nếu không sẽ bị phạt nặng. Tuy nhiên không phải ai cũng nghe theo.
-Trong phiên bản cập nhật kỷ niệm 4 năm ra mắt Liên Quân Mobile, một lỗi lớn đã xuất hiện, và nó cũng kéo theo vô số người chơi vô ý thức tìm cách lợi dụng lỗi để leo rank. Chính vì vậy, bảng xếp hạng của Liên Quân nhanh chóng xuất hiện nhiều tài khoản với số sao cao vút, chẳng biết từ đâu xuất hiện.
-Lỗi này được tận dụng trên một vài vị tướng, và nó liên quan đến một trang bị vừa được cập nhật lại, đó là Cung Tà Ma. Cụ thể, với một số tướng có thể tận dụng được trang bị này như hai chị em Arum – Aleister. Khi sử dụng chiêu cuối, rồi kích hoạt Cung Tà Ma, ngay lập tức tướng đó có thể sử dụng lại chiêu cuối một lần nữa.
-Chiêu cuối là một kỹ năng vô cùng mạnh mẽ trong game, và nếu như được sử dụng đến 2 lần, đó rõ ràng là một lợi thế khổng lồ. Chiêu cuối “Thú Khốn” của Arum có thời gian khống chế 2,5 giây, và khi dùng 2 lần thì thời gian khống chế lên đến 5 giây, vậy nên ai dính phải sẽ nắm chắc cái chết.
-Trước khi xảy ra bug với Cung Tà Ma thì rank Việt đã rất đau đầu với tình trạng buff rank ảo. Nó khiến cho nhiều game thủ chán ngán bỏ qua các máy chủ quốc tế để trải nghiệm một môi trường chơi game sạch hơn. Giờ đây Liên Quân lại càng thêm khó với lỗi mới này và chắc hẳn là những nhà phát triển sẽ phải vô cùng đau đầu tìm cách khắc phục nó càng sớm càng tốt.

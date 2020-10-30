@@ -1,6 +1,0 @@
-Cách tải game trên Windows Phone khi bộ nhớ trong đầy - VnExpress Số hóa
-
-Game tải về chiếm nhiều dung lượng quá mà mình không muốn xóa đi để tải game mới về.
-
-Mình đã thêm thẻ nhớ 16GB và cũng cài thêm phần mềm lưu trữ SkyDrive trong máy. Mọi người biết cách nào để tải và cài ứng dụng cho Windows Phone trên thẻ nhớ không? Chứ bộ nhớ trong có 8GB cài mấy game với mấy ứng dụng là gần hết bộ nhớ rồi. Còn phần mềm SkyDrive nữa mình cũng đã lưu trữ dung lượng trên đó, nhưng sao bộ nhớ trong của máy cũng vậy. Không biết cái SkyDrive có phải là một hình thức giống như MediaFire hay các trang web lưu trữ khác chỉ là sao lưu nội dung trong điện thoại trên mạng để cần thì phục hồi lại không nhỉ?
-Mình có vô phần Setting trên điện thoại nhưng không biết làm cách nào để chuyển nơi lưu trữ dung lượng sang thẻ nhớ cả. Không biết các hệ điều hành khác có giống như Windows Phone không? Mọi người biết chỉ mình với nhé.

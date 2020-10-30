@@ -40,12 +40,13 @@ parser.add_argument('--saved_args_path', type=str, default="./ckpt/args.pkl")
 args = parser.parse_args()
 
 word2idx, idx2word = load_vocab(args.vocab_path)
+unk_idx = word2idx.get("<unk>")
+
+#laod model
 with open(args.saved_args_path, 'rb') as f:
     saved_args = pickle.load(f)
 saved_args.embeddings_path = None
 model = TransformerDecoder(is_training=False, args=saved_args)
-pad_idx = word2idx.get("<eos>")
-unk_idx = word2idx.get("<unk>")
 with model.graph.as_default():
     sess = tf.Session()
     sess.run(tf.global_variables_initializer())
@@ -54,7 +55,6 @@ with model.graph.as_default():
         saver.restore(sess, tf.train.latest_checkpoint(args.ckpt_path))
     softmax = tf.reduce_mean(tf.nn.softmax(model.logits), axis=0)
 
+#predict
 def predict(text):
     return (CLASS_NAMES[_classify([word2idx.get(w, unk_idx) for w in _format_line(text)])])
-
-print(predict("ronaldo"))

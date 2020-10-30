@@ -1,0 +1,6 @@
+Một ứng dụng chơi game trên Android ẩn chứa Trojan - VnExpress Số hóa
+
+Tap Snake có thể được những kẻ tấn công sử dụng để theo dõi các chuyển động của một hệ thống Android thông qua việc theo dõi GPS.
+
+Mặc dù ứng dụng sẽ xuất hiện cho người dùng như phiên bản gốc của game, nó cũng có thể được bí mật sử dụng như chương trình client giá 4,99 đô la Mỹ (~98.039 đồng) cho ứng dụng gián điệp thương mại tên là GPS Spy, Symantec và F-Secure lần lượt cảnh báo.
+Sau khi được cài đặt, một người thứ ba (phải truy cập vật lý được vào thiết bị Android) có thể lập trình game để bí mật báo cáo vị trí của nó bất kỳ lúc nào cho một hệ thống khác đang chạy GPS Spy. Phần mềm Tap Snake được thiết kế để liên tục chạy ở chế độ nền (background) trên hệ thống cài Android.

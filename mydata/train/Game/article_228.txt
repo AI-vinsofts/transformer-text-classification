@@ -1,0 +1,7 @@
+Phiên bản hộp carton hài hước của trò Flappy Bird - VnExpress Số hóa
+
+Thay vì cài đặt và chơi trên smartphone hay tablet, một người đã tái tạo game Flappy Bird trong một hộp giấy và thu hút sự chú ý của người xem.
+
+Các ống nước sẽ liên tục chuyển động (như trong game) và người chơi bấm nút để điều khiển con chim chui qua. Nếu con chim chạm vào ống, hộp carton sẽ lập tức đóng lại và quay về vị trí xuất phát.
+Flappy Bird, trò chơi do Nguyễn Hà Đông phát triển từ giữa năm 2013, bắt đầu gây sốt trên toàn cầu đầu năm 2014. Tuy nhiên, tác giả đã bất ngờ gỡ bỏ ứng dụng này trên App Store và Google Play từ ngày 10/2 do không muốn mọi người nghiện game.
+Tuy đã bị khai tử, sức hút của Flappy Bird vẫn rất lớn. Một số người đã tạo ra các phiên bản đời thực của Flappy Bird, tổ chức cuộc thi đọ điểm trong game hay thậm chí là viết thư gửi Nhà Trắng và kêu gọi mọi người ký tên để trò chơi xuất hiện trở lại trên kho ứng dụng.

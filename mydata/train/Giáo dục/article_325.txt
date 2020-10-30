@@ -1,0 +1,9 @@
+Bài toán cân vàng của học sinh lớp 4 nhưng phụ huynh chưa chắc giải được
+
+Cùng thử sức xem bạn có trả lời đúng câu đố này không nhé!
+
+Có 8 thỏi vàng giống hệt nhau và 1 chiếc cân thăng bằng, trong đó có 1 thỏi nhẹ hơn những thỏi vàng còn lại. Hãy tìm ra thỏi vàng nhẹ hơn chỉ qua 2 lần cân.
+- Nếu cán cân lệch về 1 bên, thỏi vàng cần tìm nằm ở bên nhẹ hơn, ta cân riêng nhóm vàng đó lần 2. Lấy riêng 2 thỏi vàng đặt lên cân, bên nào nhẹ hơn chính là thỏi vàng cần tìm, nếu cân thăng bằng thì thỏi vàng còn lại chính là thỏi vàng nhẹ hơn.
+Chia thành 2 nhóm cân, mỗi lần 4 thỏi chia đôi mỗi bên đĩa cân 2 thỏi Lần 1: Nếu đĩa cân thăng bằng, chứng tỏ thỏi nhẹ nằm ở nhóm 2 Lần 2: Chắc chắn cân sẽ lệch về bên có 2 thỏi nặng bằng nhau (ví dụ bên trái). Khi đó ta dùng 2 tay nhấc mỗi bên đĩa cân 1 thỏi. Khi đó có 2 trường hợp: - Nếu cân vẫn lệch như cũ thì chứng tỏ thỏi nhẹ nằm trên đĩa cân bên phải. - Nếu đĩa cân cân bằng thì thỏi nhẹ nằm trên tay phải của chúng ta.
+Đặt mỗi bên cân 4 thỏi . Bên nặng và nhẹ nhìn thấy luôn và ngay. Lấy mỗi bên cân 2 thỏi ra và để riêng mỗi bên . Nếu cân thăng bằng thì bỏ hết ra vàng ra khỏi cân . Và bây giờ cho lên cân mỗi bên 1 thỏi 2 thỏi vàng vừa lấy ra trước đó của bên nhẹ hơn . Ra thỏi vàng nhẹ rồi nhé 2 lần cân . Trường hợp 2 khi bỏ hai thỏi vàng mỗi bên ra và cân không thăng bằng thì cân riêng 2 thỏi bên nhẹ sẽ biết thỏi vàng nhẹ hơn. Cũng 2 lần cân nhé.
+Lần 1 lấy 6 thỏi để 2 bên cân.nếu bằng nhau thì lấy 2 thỏi còn lại cân lần 2 sẽ xác định được thỏi nhẹ. Trường hợp Ko bằng nhau lấy 3thỏi bên nhẹ ra.để lên cân 2 thỏi bất kỳ sẽ xác định được thỏi nhẹ

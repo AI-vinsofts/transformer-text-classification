@@ -1,0 +1,11 @@
+Tấm chắn giọt bắn không hiệu quả trong việc ngăn chặn vi rút SARS-CoV-2
+
+Theo các mô hình thử nghiệm ở Nhật Bản, các tấm chắn giọt bắn đeo trên mặt hầu như không có hiệu quả trong việc ngăn ngừa khí dung hô hấp. Điều này làm dấy lên những nghi ngờ về hiệu quả của nó trong việc ngăn chặn sự lây lan của vi rút SARS-CoV-2.
+
+Các mô phỏng của siêu máy tính và viện nghiên cứu Riken tại Nhật Bản cho thấy tấm chắn giọt bắn không ngăn chặn được các giọt bắn có kích cỡ 50 micromet trở lên.
+Fugaku cho thấy, gần như 100 % các giọt nhỏ trong không khí có kích thước nhỏ hơn 5 micromet đã lọt qua tấm chắn bằng nhựa thường được những người làm việc trong các ngành dịch vụ sử dụng.
+Tuy nhiên, Fugaku phát hiện ra rằng, dù sao tấm chắn bằng nhựa cũng có hiệu quả hơn trong việc ngăn chặn lây lan COVID-19 thông qua các giọt bắn trong không khí hơn khẩu trang bằng vải cotton và polyester.
+Ngoài ra, khoảng 50% các giọt bắn lớn hơn, kích cỡ 50 micromet được phát hiện ra là vẫn lọt ra không khí, theo nghiên cứu của Riken, một viện nghiên cứu của chính phủ Nhật Bản ở thành phố Kobe.
+Ông Makoto Tsubokura, trưởng nhóm nghiên cứu về khoa học máy tính tại viện Riken, cho biết mô phỏng này kết hợp luồng không khí với việc tái tạo hàng vạn giọt bắn với các kích cỡ khác nhau, từ dưới 1 micromet tới vài trăm micromet.
+Ông Tsubokura cho biết, từ kết quả mô phỏng cho thấy hiệu quả của thiết bị bảo vệ trên mặt trong việc ngăn chặn các giọt nhỏ lây lan từ miệng người mắc COVID-19 bị hạn chế. Điều này đặc biệt đúng đối với với các giọt nhỏ dưới 20 micromet, Còn các hạt khí nhỏ hơn đều được tìm thấy thoát ra ngoài qua khe hở giữa mặt và tấm chắn.
+Do đó, ông Tsubokura khuyến cáo những người mắc bệnh về đường hô hấp và trẻ em có thể đeo tấm chắn giọt bắn khi ở ngoài trời hoặc nếu ở trong nhà thì phải có hệ thống thông gió hoàn hảo.

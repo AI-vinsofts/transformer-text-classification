@@ -1,0 +1,9 @@
+Tia cực tím có thể tiêu diệt được SARS-CoV-2
+
+Một nghiên cứu do các nhà nghiên cứu của đại học Hiroshima, Nhật Bản thực hiện đã phát hiện ra rằng, việc sử dụng tia cực tím C ( UVC) có bước sóng 222nm an toàn hơn để chiếu xung quanh người và tiêu diệt được virút SARS-CoV-2 hiệu quả.
+
+Các nghiên cứu khác liên quan đến tia UVC 222 là Far- UVC cho đến nay mới chỉ xem xét công hiệu của nó trong việc tiêu diệt các virút corona theo mùa có cấu trúc tương tự như SARS-CoV-2 nhưng không gây ra bệnh COVID-19.
+Một thí nghiệm trong ống nghiệm của các nhà nghiên cứu này cho thấy 99,7 % virút SARS-CoV-2 đã bị tiêu diệt sau 30 giây tiếp xúc với tia UVC 222 nm. Nghiên cứu này vừa được công bố trên tạp chí kiểm soát bệnh nhiễm trùng của Mỹ.
+Bước sóng 222nm không thể xuyên qua lớp ngoài, không thể đi sâu vào mắt và da của người nên không gây hại cho các tế bào bên trong. Điều này khiến nó trở thành một giải pháp thay thế an toàn hơn nhưng không kém phần hiệu quả so với đèn diệt khuẩn UVC 254 nm gây hại đang được sử dụng nhiều hơn trong việc khử trùng ở các cơ sở y tế.
+Vì UVC 254  nm có hại cho các mô tiếp xúc của con người, nó chỉ có thể sử dụng để vệ sinh các phòng trống. Thế nhưng tia UVC 222 nm có thể là một hệ thống khử trùng đầy hứa hẹn cho các không gian công cộng, bao gồm các bệnh viện.
+Mặc dù vậy, các nhà nghiên cứu đề nghị đánh giá thêm về tính an toàn và hiệu quả của chiếu xạ UVC 222 nm trong việc tiêu diệt virút trong thế giới thực vì nghiên cứu của họ mới chỉ khảo sát hiệu quả trong phòng thí nghiệm.

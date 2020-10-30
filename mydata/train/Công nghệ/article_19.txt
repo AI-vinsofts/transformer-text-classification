@@ -1,0 +1,9 @@
+Lộ diện hai điện thoại giá rẻ sắp ra mắt của Samsung
+
+Samsung dường như tiếp tục quan tâm đến phân khúc smartphone giá rẻ bằng cách chuẩn bị cho sự xuất hiện của hai mẫu mới.
+
+Thành viên đầu tiên là Galaxy A02s với số model SM-A025G có trên danh sách GeekBench. Điện thoại đạt 756 điểm trong thử nghiệm đơn lõi và 3934 điểm trong thử nghiệm đa lõi. Một vài ngày trước, điện thoại đã được phát hiện trong chứng nhận Bluetooth SIG với số model SM-A025F, có nghĩa có ít nhất hai biến thể của điện thoại đang được phát triển.
+Danh sách GeekBench cũng cung cấp cho mọi người thông tin về các thông số kỹ thuật chính của Galaxy A02s. Theo danh sách, Galaxy A02s chạy Android 10 kết hợp RAM 3 GB. Tuy chi tiết về chip không có trong danh sách nhưng nếu dựa vào phân tích hình ảnh mã nguồn được đăng bởi MySmartPrice cho thấy điện thoại được cung cấp bởi GPU Adreno 506. Dựa trên GPU cho thấy, Galaxy A02s có thể đi kèm với chip 8 lõi Snapdragon 450.
+Các tin đồn trước đó cho biết Galaxy A02s sẽ đi kèm màn hình 5,7 inch độ phân giải HD+ và đi kèm notch hình giọt nước. Nó được cho là có thiết lập camera kép ở mặt sau với cảm biến chính 13 MP và cảm biến độ sâu 2 MP. Ở mặt trước máy có camera selfie 8 MP đặt bên trong notch hình giọt nước. Galaxy A02s có pin 3.500 mAh và chạy One UI 2.5 dựa trên Android 10 khi phát hành.
+Trong khi đó, sau khi Galaxy F41 mở màn cho gia đình Galaxy F, Samsung cũng đang phát triển một sản phẩm mới mang tên Galaxy F12 hoặc F12s dựa trên hồ sơ đăng ký mới đây của công ty tại Ấn Độ, với tên model SM-F127G.
+Cũng theo tên gọi, đây chắc chắn là một chiếc smartphone giá rẻ. Hiện vẫn chưa rõ Galaxy F12/F12s là tên mới của thành viên nào trong dòng Galaxy M trước đó nhưng nhiều khả năng là Galaxy M21.

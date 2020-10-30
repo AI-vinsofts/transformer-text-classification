@@ -1,0 +1,7 @@
+Hôn để điều khiển game Bowling - VnExpress Số hóa
+
+Tùy theo mức độ nồng nhiệt của nụ hôn, người chơi sẽ điều chỉnh được hướng cũng như lực của quả bóng Bowling trước khi ném ra.
+
+Nhà thiết kế đa phương tiện có tên Hye Yeon Nam mới đây đã trình làng một dự án khá đặc biệt và lạ lùng có tên, "Kiss Controller", bộ điều khiển chơi game Bowling bằng cách hôn.
+Một tai nghe thiết kế đặc biệt sẽ được gắn vào tai của một người trong khi một cảm biến khác sẽ được đặt ở lưỡi. Tùy theo mức độ nồng nhiệt của nụ hôn, người chơi sẽ điều chỉnh được hướng cũng như lực của quả bóng Bowling trước khi ném ra. 
+Tuy mức độ thực tế của "Kiss Controller" không cao nhưng đây sẽ là bước đệm để cho công nghệ chơi game bằng cảm biến, tương tác thực phát triển hơn nữa trong tương lai.

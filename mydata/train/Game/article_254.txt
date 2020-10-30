@@ -1,0 +1,6 @@
+Chuyển user sang admin trong Windows 7 - VnExpress Số hóa
+
+Tiện thì giúp em cách chơi GTA San Andreas trên Windows 7 với.
+
+Mọi người cho em hỏi. Em down GTA San Andreas về chơi trên máy chạy Windows 7 nhưng cứ nhấp vô icon thì một 2 giây sau out ra luôn không chơi được. Em lên mạng tìm thấy người ta bảo cài Directx 9 mới chơi được. Em down về cài nhưng máy lại đòi phải có quyền cao nhất admin. Em làm net user administrator/active:yes nhưng máy lại từ chối. Em mong mọi người có thể giúp em cách khắc phục và tiện luôn còn cách nào giúp em chơi được GTA San Andreas trên Windows 7.
+ 

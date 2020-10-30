@@ -1,0 +1,9 @@
+Apple xác nhận iPhone 12 5G kết nối siêu ổn định
+
+Apple được cho là đã điều chỉnh chỉ báo thanh trạng thái mạng trên các mẫu iPhone 12 để mô tả tốc độ tốt nhất hiện có.
+
+Mới đây, iPhone 12 đã xuất hiện trong một mẩu tin nhỏ liên quan đến hỗ trợ 5G trong một bài đánh giá về thiết bị cầm tay của Apple. Cụ thể hơn, các chỉ số mạng đã được tinh chỉnh chỉ áp dụng cho các thiết bị Apple được trang bị 5G như iPhone 12 và iPhone 12 Pro.
+Biểu tượng "5G" là một sản phẩm phụ của "Chế độ dữ liệu thông minh" – Smart Data Mode mới mà Apple đã thêm vào iPhone 12. Để tiết kiệm pin, chế độ này sẽ kích hoạt mạng LTE cho iPhone trừ khi iOS giữ kết nối 5G.
+Tuy nhiên, "điều kỳ lạ là khi iPhone giới hạn ở tốc độ LTE, nó vẫn sẽ hiển thị biểu tượng 5G trên thanh trạng thái. Nói đơn giản, đây là chỉ báo về tốc độ tốt nhất hiện có, không phải loại kết nối thực tế đang được sử dụng". Tương tự, không rõ những trường hợp nào sẽ có 5G khi bật chế độ Dữ liệu thông minh. Tuy nhiên, người dùng có thể tắt tính năng này trong Cài đặt.
+Về cách 5G hoạt động trên iPhone 12, bài đánh giá lưu ý rằng "hoạt động tốt hơn điện thoại Android 5G." Thông thường, các thiết bị sẽ nóng lên khi sử dụng 5G và tuổi thọ pin có thể bị ảnh hưởng nếu sử dụng quá mức.
+Đây không phải là lần đầu tiên một biểu tượng trạng thái được chứng minh là gây hiểu lầm trên iPhone. Vào năm 2019, nhà mạng AT&T đã hiển thị - chỉ báo "5G E" trên các thiết bị chỉ hỗ trợ phiên bản nâng cấp của 4G LTE khiến iFan xôn xao.

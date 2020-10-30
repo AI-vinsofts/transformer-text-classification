@@ -1,0 +1,11 @@
+Tuyệt phẩm iPhone 12 Pro Max lộ điểm hiệu năng gây bất ngờ
+
+Điểm chuẩn hiệu năng AnTuTu của iPhone 12 Pro Max bị rò rỉ cho thấy hiệu suất của chiếc smartphone này chỉ tăng nhẹ so với iPhone 11 Pro Max.
+
+Mặc dù Apple không công bố bất kỳ chiếc iPhone mới nào trong sự kiện vào tháng 9, nhưng công ty đã trình bày chi tiết về trung tâm của những chiếc điện thoại tương lai - chip Apple A14. Dựa trên tuyên bố của "Nhà Táo" tại buổi công bố, các chuyên gia công nghệ ước tính con chip này có CPU nhanh hơn 17% và GPU tốt hơn 8% so với “người tiền nhiệm” và điểm chuẩn hiệu năng bị rò rỉ của con chip cho thấy những con số này khá chuẩn.
+Bảng điểm chuẩn AnTuTu chạy trên iPhone 12 Pro Max cho thấy chiếc iPhone này có điểm số CPU cao hơn 16% và kết quả GPU tốt hơn 4% so với iPhone 11 Pro Max. Tuy nhiên, tốc độ bộ nhớ tăng rõ rệt hơn – 22%. Nhìn chung, hiệu suất tăng rất nhỏ.
+Điểm chuẩn tổng hợp 572.333 của iPhone 12 Pro Max có vẻ thấp, đặc biệt là khi xem xét sự cạnh tranh của chip Snapdragon 865+ trên Android đã vượt qua mốc 600.000. Tất nhiên, việc so sánh điểm chuẩn đa nền tảng không thực sự chính xác vì có sự khác biệt trong cách các tác vụ được thực thi.
+Tuy nhiên, việc so sánh giữa A14 với A13 khá khách quan và con số chênh lệch cho thấy chip sản xuất trên quy trình 5nm đầu tiên trên thế giới sẽ không mang lại “bước nhảy vọt” về hiệu suất như nhiều người đã mong đợi. Có ba cách giải thích hợp lý cho điều này.
+Một là, Apple có thể đã ưu tiên việc thu nhỏ pin nhưng vẫn đảm bảo hiệu suất, khiến A14 sử dụng ít năng lượng hơn trong khi vẫn đạt được hiệu suất gần như tương đương. Đây là khả năng cao nhất vì thiết bị tiên phong A14 Bionic - thế hệ thứ 4 của Apple iPad Air có thời lượng pin tương đương với thế hệ trước dù có pin nhỏ hơn 8%.
+Thứ hai, việc chuyển sang chip 5nm có thể không mang lại lợi ích mà người dùng đều hy vọng. Mặc dù quy trình nhỏ hơn gần 30% về mặt lý thuyết sẽ mang lại hiệu quả tăng cao nhưng sẽ mất không ít thời gian cho đến khi chip được tận dụng tối đa sức mạnh.
+Cuối cùng, đây có thể là một phiên bản iPhone 12 Pro Max kỹ thuật và hiệu suất của các đơn vị cuối cùng có thể tốt hơn nhiều. Công chúng sẽ phải kiên nhẫn chờ đợi cho đến khi dòng iPhone 12 được ra mắt chính thức mới có thể chứng thực sản phẩm cuối cùng.

@@ -1,0 +1,7 @@
+Qualcomm sẽ ra mắt con chip "đối đầu” A14 Bionic vào ngày 01/12
+
+Hiện Qualcomm đã lên lịch công bố chip xử lý Snapdragon 875 cho các flagship Android vào ngày 01/12.
+
+Theo truyền thống, Qualcomm sẽ ra mắt chip xử lý cao cấp thế hệ tiếp theo của mình tại hội nghị hàng năm ở Hawaii, diễn ra vào đầu tháng 12. Bất chấp những bất ổn liên quan đến COVID-19 nói chung, công ty chip sẽ giữ nguyên lịch trình thông thường của mình: thời gian công bố sự kiện năm nay diễn ra vào ngày 01 - 02/12 dự kiến cho Snapdragon 875.
+Qualcomm đã đăng ngày này lên trang cá nhân Weibo của mình và chủ tịch Xiaomi Trung Quốc là thương hiệu đầu tiên chia sẻ sự phấn khích của mình. Ông Lu Weibing xác nhận, những chiếc flagship tiếp theo của công ty sẽ nằm trong số những chiếc điện thoại đầu tiên trên thị trường sử dụng chip Snapdragon 875.
+Snapdragon 775G tầm trung cũng có thể ra mắt tại sự kiện này. Con chip được kỳ vọng cũng là chip được sản xuất trên quy trình công nghệ 5nm trong khi Snapdragon 875 sẽ là chip đầu tiên sử dụng lõi CPU X1 siêu mạnh mới của ARM, đối đầu với chip A14 Bionic trên dòng iPhone 12.

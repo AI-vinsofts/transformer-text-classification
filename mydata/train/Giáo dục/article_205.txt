@@ -1,0 +1,8 @@
+Câu đố đếm lịch vỏn vẹn 2 dòng nhưng tính cả ngày chưa ra đáp án
+
+Cùng thử sức xem bạn có trả lời đúng câu đố này không nhé!
+
+Đặt ngày chủ nhật đầu tiên của tháng là X thì có 2 trường hợp xảy ra. Tháng có 4 ngày chủ nhật thì phương trình là X+X+7+X+14+X+21=75 thì X lẻ. TH sai thực tế. Tương tự tháng có 5 ngày chủ nhật X+X+7+X+14+X+21+X+28=75. Suy ra X=1 như vậy ngày chủ nhật đầu tiên là ngày 1 thì ngày chủ nhật thứ 2 là ngày 8
+Ngày thứ nhất là nghiệm nguyên duyên của phương trình Sn=x1+x2+...+xn=n.x1+n(n-1).7/2=75 n=4 hoặc n=5 => x1=1 Vậy ngày chủ nhật thứ 2 trong tháng là ngày 1+7=8
+Vì tổng các ngày chủ nhật là 75(số lẻ) nên tháng có 5 ngày chủ nhật.vì mỗi tuần có 7 ngày nên ta có bài toán X+(X+7)+(X+14)+(X+21)+(X+28)=75 5X+70=75 =>X=1.vậy ngày chủ nhật thứ 2 là ngày mùng 8
+Đáp án là 8 và 15 Gọi x là ngày chủ nhật đầu của tháng. 1 tháng ta có từ 4 đến 5 ngày chủ nhật nên sẽ có 2 phương án. 1. 4 ngày chủ nhật/1 thắng sẽ có phép tính: x+7+x+7+7+x+7+7+7+x=75 =>4x=75-42=32 =>x=8. Vậy ngày chủ nhật thứ 2 là ngày 15 2. Có 5 ngày chủ nhật. X+7+x+7+7+x+7+7+7+x+7+7+7+7+x=75 =>5x=75-70=>x=1. Vậy ngày chủ nhật thứ 2 là ngày 8

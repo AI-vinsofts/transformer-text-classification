@@ -1,0 +1,10 @@
+Galaxy Z Fold 3 sẽ còn biến hoá kỳ diệu hơn với bút S Pen mới
+
+Theo các tin đồn mới nhất, Galaxy Z Fold 3 năm sau sẽ được tích hợp một loại bút cảm ứng S Pen khác.
+
+Báo cáo từ phía Hàn Quốc - The Elec dẫn nguồn từ công ty tình báo thị trường UBI Research cho hay, Samsung đang nỗ lực làm việc để phát triển bút cảm ứng S Pen hoạt động với Galaxy Z Fold 3 vào năm tới.
+Vì màn hình của điện thoại có thể gập lại không bền bằng màn hình của điện thoại thông thường nên Samsung đang xem xét chuyển sang công nghệ số hóa Active Electrostatic (AES) cho Galaxy Z Fold 3. Trước đó, dòng Galaxy Note sử dụng công nghệ số hóa Cộng hưởng Điện từ (EMR). Khi áp dụng công nghệ này, màn hình của thiết bị tương thích sẽ cung cấp năng lượng cho bút. Do đó, bút S Pen không cần pin riêng và điều này làm cho nó mỏng và nhẹ hơn.
+Vấn đề với công nghệ EMR là nó cần hai bộ số hóa riêng biệt cho đầu vào bằng ngón tay và cảm ứng. Mặt khác, công nghệ AES sử dụng cảm biến tương tự như cảm biến cảm ứng cho cả đầu vào bằng bút và ngón tay. Vì màn hình có thể gập lại đã khá phức tạp, nên chỉ sử dụng một bộ số hóa cho Galaxy Z Fold 3 là điều hợp lý.
+Không những vậy, UBI Research cũng tuyên bố Galaxy Z Fold 3 sẽ có một lớp kính siêu mỏng (UTG) dày hơn để chịu được áp lực từ S Pen. UTG trên Galaxy Z Fold 2 dày 30μm và Samsung được cho là đang có kế hoạch tăng gấp đôi độ dày đồng thời tăng độ linh hoạt của màn hình.
+Theo một báo cáo trước đây, Galaxy Z Fold 3 sẽ là điện thoại Samsung đầu tiên có camera dưới màn hình. Các chi tiết khác về sản phẩm này vẫn còn khá hạn chế nhưng Samsung rõ ràng đang có ý định biến dòng Galaxy Z trở thành dòng sản phẩm hàng đầu mới của mình và Galaxy Z Fold 3 có thể vượt trội hơn nhiều so với dòng Galaxy S21.
+Với sự thành công bước đầu của Galaxy Z Flip và Galaxy Z Fold 2, Galaxy Z Fold 3 được kỳ vọng sẽ mang lại phản hồi tích cực từ công chúng dù giá bán có thể vẫn còn rất cao.

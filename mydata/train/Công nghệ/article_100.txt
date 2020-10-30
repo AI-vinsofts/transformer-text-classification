@@ -1,0 +1,9 @@
+Giá đắt đỏ nhưng hiệu năng iPhone 12 và 12 Pro gây thất vọng
+
+Mặc dù chưa đến tay người tiêu dùng nhưng hiệu năng của loạt iPhone mới từ Apple đã được ghi nhận, và kết quả thật bất ngờ.
+
+Apple đã giới thiệu dòng sản phẩm iPhone 12 của mình vào rạng sáng ngày 14/10 theo giờ Việt Nam, trong đó iPhone 12 và iPhone 12 Pro đã được đặt hàng trước vào ngày 16/10 trước khi xuất hiện trên thị trường vào ngày 23/10. Giờ đây, điểm của hai thiết bị trong cơ sở dữ liệu AnTuTu đã được ghi nhận, giúp mọi người có cái nhìn trước về hiệu suất tổng hợp của chúng.
+Theo ghi nhận, cả hai thiết bị iPhone 12 đều được trang bị chip A14 Bionic và là chip 5nm đầu tiên, tuy nhiên những con số thô cho thấy kết quả đáng thất vọng khi so sánh với Snapdragon 865 - chip 7nm hiện đang được sử dụng trên hầu hết smartphone Android cao cấp.
+Cụ thể, tổng hiệu suất của GPU, CPU, bộ nhớ và giao diện người dùng dành cho iPhone 12 là 570.000 trên AnTuTu. Để so sánh nhanh, tổng hiệu suất của các điện thoại Android hàng đầu trên AnTuTu với mức trung bình hơn 660.000, với khoảng cách lớn nhất về điểm GPU của iPhone thấp hơn 40%.
+Trong ba yếu tố còn lại, điểm số hiệu suất iPhone của Apple thấp hơn 10%, trong đó bộ nhớ thấp hơn khoảng 6%. Kết quả này áp dụng cho các biến thể 4/256 GB của iPhone 12 và 6/128 GB của iPhone 12 Pro. Đây cũng có thể là xác nhận đầu tiên sau khi loạt iPhone 12 ra mắt, cho thấy bản Pro có RAM 6 GB và bản thường có RAM 4 GB.
+Được biết, điểm chuẩn dành cho A14 Bionic trên iPhone 12 nhanh hơn so với những gì mà chip A13 Bionic có trên iPhone 11 Pro Max đạt được. Cụ thể, trong phép thử AnTuTu 8, iPhone 11 Pro Max đạt 536.883 điểm, tức là hai thành viên gia đình iPhone 12 nói trên nhanh hơn 5-6%.

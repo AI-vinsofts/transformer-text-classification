@@ -1,0 +1,8 @@
+Apple TV có thể hỗ trợ game - VnExpress Số hóa
+
+Thiết bị trình diễn phim ảnh HD của Apple có thể được trang bị thêm khả năng chơi game giống như iPhone hay iPod Touch.
+> Biến Apple TV thành một đầu phát HD
+
+Engadget cho biết, họ đã phát hiện được một số đoạn mã bên trong bản firmware iOS 4.3 beta của Apple cho thấy việc Apple TV có thể được bổ sung thêm tính năng chơi game, ngoài khả năng giải trí đa phương tiện như xem phim, nghe nhạc hiện nay.
+Các dòng mã bao như "ATVGames", "ATVThunder", "com.apple.appletv.play.live.thunder" hay "play.archive.thunder" khiến nhiều người đưa ra suy đoán, trong lần cập nhật phần mềm sắp tới, Apple TV sẽ hỗ trợ thêm tay cầm điều khiển, có thể chơi game trên AppStore hoặc trò chơi trực tuyến mạng xã hội. Tuy nhiên, Apple chưa hề tiết lộ bất kỳ thông tin nào về việc thiết bị của họ sẽ hỗ trợ thêm tính năng chơi game trong tương lai.
+Một đoạn video vừa mới xuất hiện trên mạng cũng cho thấy một vài tính năng thú vị đã bị ẩn đi trên Apple TV 2. Đó là việc sản phẩm của Apple có thể sử dụng chung với chiếc điều khiển đa năng Logitech Harmony, cũng cho phép sắp đặt các icon trên màn hình giống như iPhone hay iPad... Mẫu Apple TV thế hệ thứ hai này cũng đang sử dụng hệ điều hành iOS, hỗ trợ Wi-Fi, kết nối tới iTunes, tuy nhiên lại bị Apple hạn chế nhiều tính năng.

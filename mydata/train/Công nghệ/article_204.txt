@@ -1,0 +1,9 @@
+Đừng mong đợi Apple điều chỉnh Face ID để hoạt động với khẩu trang
+
+“Thật khó để nhìn thấy thứ mà bạn không thể nhìn thấy”, một đại diện của Apple vừa cho biết.
+
+Khi mà mọi người đang tập trung đeo khẩu trang để phòng chống dịch bệnh cũng là lúc Face ID thường xuyên gặp vấn đề trong quá trình nhận dạng khuôn mặt người sử dụng. Nguyên nhân bắt nguồn từ việc Face ID cần chụp bản đồ 3D của khuôn mặt để nó tự tin rằng người mà nó đang nhìn là chủ nhân chính thức. Các báo cáo gần đây cho biết Apple có thể giải quyết điều này bằng việc giảm bớt lớp bảo mật trên Face ID, tuy nhiên công ty có vẻ không muốn làm điều này.
+Trong một bài phỏng vấn với nhiều cửa hàng liên quan đến việc Apple có ý tưởng khiến Face ID hoạt động với khẩu trang hay không, một đại diện kiến trúc nền tảng của Apple cho biết công ty không thích ý tưởng làm cho nó trở nên kém an toàn hơn.
+Vị đại diện này cho biết: “Thật khó để nhìn thấy thứ mà bạn không thể nhìn thấy. Các mô hình nhận dạng khuôn mặt thực sự tốt, nhưng đó là một vấn đề phức tạp. Người dùng muốn tiện lợi nhưng họ cũng muốn an toàn. Còn tại Apple, tất cả chỉ là đảm bảo rằng dữ liệu vẫn an toàn”.
+Cũng theo đại diện này cho biết: “Chúng tôi có thể nghĩ đến các kỹ thuật không liên quan đến phần khuôn mặt được che bởi lớp bảo vệ miệng-mũi. Nhưng sau đó, người dùng sẽ mất đi một số đặc điểm tạo nên nét độc đáo cho khuôn mặt của mình, điều này khiến họ dễ tưởng tượng rằng sẽ có ai đó có thể mở khóa điện thoại của mình”.
+Trong thực tế, nhiều người tiêu dùng đã kỳ vọng Apple có thể giải quyết được vấn đề bằng cách áp dụng một kiến trúc mở khóa tương tự như Touch ID có trên iPad Air 4 ra mắt mới đây. Với iPad Air 4, Apple đã tự hào khi đặt cảm biến Touch ID vào nút nguồn của máy, vì vậy nhiều người hy vọng iPhone 12 sẽ có tính năng này giúp việc mở khóa không trở nên khó khăn hơn mỗi khi người dùng đeo khẩu trang.

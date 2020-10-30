@@ -1,0 +1,11 @@
+Pin iPhone 12 Pro Max kém xa 11 Pro Max nhưng "độ trâu” vẫn tương đương
+
+Cuối cùng Apple đã đưa iPhone 12, 12 Pro, 12 mini và 12 Pro Max vào bảng thông số kích thước pin của mình.
+
+Có lẽ để có thể đặt tất cả các ăng-ten, modem và bộ lọc 5G, đồng thời phù hợp với cảm biến máy ảnh lớn hơn, Apple đã thực sự cắt giảm một chút kích thước pin iPhone 12 so với các mẫu iPhone 11 tương ứng. Tuy nhiên, nhờ công nghệ màn hình OLED và chip 5nm thế hệ tiếp theo tiết kiệm hơn, mức tiêu thụ điện năng của iPhone mới khi thực hiện các tác vụ hàng ngày như xem video cũng đã được giảm bớt.
+Như có thể thấy, pin iPhone 12 có dung lượng nhỏ hơn khoảng 10% so với iPhone 11, nhưng điều đó không ảnh hưởng đến xếp hạng thời lượng pin của Apple giữa iPhone 12/12 Pro với tiền nhiệm iPhone 11, cho thấy sự sụt giảm tương xứng về tổng thể của hai sản phẩm.
+Nếu chúng ta chuyển đổi từ chỉ số Wh cho điện áp 3,83V mà Apple liệt kê trên iPhone 11 thì pin của iPhone 12 sẽ là 2815mAh, chính xác như tin đồn cách đây không lâu. Một lần nữa, mức giảm khoảng 10% so với đơn vị 3110mAh trong iPhone 11.
+Mặt khác, iPhone 12 Pro có pin, màn hình và chip xử lý tương tự như iPhone 12, vì vậy không có gì ngạc nhiên khi Apple liệt kê các con số về độ bền tương tự cho nó. Tuy nhiên, đối với dung lượng và thời lượng pin iPhone 12 Pro so với iPhone 11 Pro, danh sách thay đổi:
+Ở đây các phép tính phức tạp hơn một chút. Trong khi Apple liệt kê 14,13Wh cho iPhone 12 Pro Max, giảm 6,45% so với mức 15,04Wh mà hãng này trích dẫn cho pin trong iPhone 11 Pro Max, chúng ta sẽ không biết điện áp mà nó sử dụng.
+Nếu sử dụng điện áp 3,79V của iPhone 11 Pro Max sẽ trả lại dung lượng 3727mAh, và nếu điện áp 3,83V như iPhone 11 sẽ mang lại dung lượng 3687mAh - vốn là con số đã được đồn đại trong thời gian gần đây. Nhưng xét cho cùng, dung lượng pin iPhone 12 Pro Max nhỏ h ơn so với iPhone 11 Pro Max.
+Thật không may, iPhone 12 mini không có chỗ cho pin lớn như pin trong iPhone 11, vì vậy dung lượng pin của nó thấp hơn một phần tư. Mặc dù vậy, nó vẫn đánh bại pin của iPhone SE mặc dù có kích thước nhỏ gọn hơn. Quan trọng hơn, do có màn hình 5,4 inch nhỏ hơn 6,1 inch trên iPhone 12 nên thời lượng phát video của iPhone 12 mini tốt hơn, trong khi thời gian phát âm thanh thì tương đương.

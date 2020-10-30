@@ -1,0 +1,8 @@
+80% game nhái Flappy Bird chứa mã độc - VnExpress Số hóa
+
+Theo thống kê của hãng bảo mật McAfee, trung bình cứ 5 trò chơi ăn theo Flappy Bird thì có tới 4 trò bị cài mã độc hại.
+
+Flappy Bird được Nguyễn Hà Đông phát hành giữa năm 2013 trên iOS và đầu năm nay trên Android. Game này đạt được thành công lớn với hơn 50 triệu lượt tải nhưng sau đó đã bị Đông gỡ xuống vào đầu tháng 2/2014.
+Nhận thấy sự quan tâm lớn của người chơi, tội phạm mạng đã nhanh chóng phát triển hàng trăm phiên bản nhái Flappy Bird nhằm phát tán mã độc. Trong thống kê mới nhất, hãng McAfee tìm thấy 300 game, tức chiếm khoảng 79% tổng số trò chơi ăn theo Flappy Bird, có thể gây hại cho thiết bị của người sử dụng.
+Sau khi mã độc được cài vào máy, kẻ xấu có thể khống chế smartphone của nạn nhân để thực hiện các cuộc gọi, cài thêm những ứng dụng khác, thu thập thông tin cá nhân như danh bạ, địa chỉ hay ghi âm cuộc gọi và sao chép SMS...
+Không chỉ Flappy Bird, nhiều ứng dụng khác cũng đang bị tội phạm mạng sao chép và đánh lừa người dùng. Do đó, các chuyên gia bảo mật khuyến cáo người sử dụng điện thoại cần xem xét kỹ nguồn gốc ứng dụng trước khi tải.

@@ -1,0 +1,9 @@
+Bất ngờ với dung lượng RAM của iPhone 12 Pro
+
+Các mẫu iPhone 12 Pro có RAM 6GB trong khi cặp iPhone 12 & iPhone 12 Mini chỉ có RAM 4GB.
+
+Dựa trên thông tin trong bản beta Xcode mới nhất đến từ nguồn tin Hiraku, có thể khẳng định chắc chắn là cả hai mẫu iPhone 12 Pro mới của Apple đều có RAM 6GB trong khi các phiên bản iPhone 12 rẻ hơn có RAM 4GB. Bản thân Apple không tiết lộ dung lượng bộ nhớ của iPhone nhưng số liệu thống kê điểm chuẩn và các dữ liệu khác có thể làm sáng tỏ chủ đề này. Trước đó, điểm chuẩn cho iPhone 11 Pro và iPhone 11 tiết lộ rằng cả hai đều được trang bị 4GB RAM.
+Cặp iPhone 12 Pro/ iPhone 12 Pro Max được xem là những chiếc iPhone đầu tiên có RAM 6GB. Sự khác biệt về RAM, nếu chính xác, sẽ là một trong những yếu tố phân biệt hiệu suất chính giữa các mẫu iPhone 12 và iPhone 12 Pro vì cả hai dòng thiết bị đều được tích hợp chip A14 Bionic mới nhất và tốt nhất của Apple.
+Ngoài ra, có một số kết quả kiểm tra điểm chuẩn sớm được cho là có nguồn gốc từ iPhone 12 Pro. Cụ thể, bài kiểm tra hé lộ thông tin về một thiết bị có tên "iPhone 13,3" chạy iOS 14.1. Các điểm chuẩn cho thấy iPhone cao cấp hơn có bộ nhớ RAM 6GB và cho thấy thiết bị đạt 1590 điểm trong bài kiểm tra Geekbench đơn lõi và 3120 trong thử nghiệm đa lõi. Trước đó, iPhone 11 Pro đạt 1336 điểm ở bài kiểm tra lõi đơn và 3545 ở thử nghiệm đa lõi.
+Do có sự chênh lệch về điểm đa lõi nên kết quả này được đánh giá là chưa chính xác. Thực tế, các bài kiểm tra Geekbench cũng có thể dễ dàng bị làm giả và không có cách nào để xác minh xem chúng có nguồn gốc từ iPhone 12 Pro thực tế hay không.
+Apple đã công bố iPhone 12 và iPhone 12 Pro tại sự kiện quan trọng vào đêm ngày 13/10. Các mẫu iPhone 12 và iPhone 12 Pro sẽ cho phép đặt hàng trước lúc 5 giờ sáng Thái Bình Dương vào thứ Sáu, ngày 16/10. iPhone 12 Mini và iPhone 12 Pro Max sẽ cho phép đặt hàng muộn hơn, vào ngày 06/11.

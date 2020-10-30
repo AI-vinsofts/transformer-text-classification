@@ -1,0 +1,7 @@
+Game trực thăng của tác giả Flappy Bird ra mắt ngày 21/8 - VnExpress Số hóa
+
+Trò chơi Swing Copters của Nguyễn Hà Đông có nội dung được ví như "Flappy Bird xoay dọc".
+
+Trong game Swing Copters, nhân vật gắn cánh quạt màu sẽ phải bay lên cao nhất có thể trong khi phải tránh va chạm với những thanh sắt so le treo các quả tạ lơ lửng. Cách chơi vẫn giống như Flappy Bird, đó là người chơi chỉ cần gõ vào màn hình để di chuyển nhân vật một cách khéo léo. Tuy nhiên lần này, việc gõ mạnh hay nhẹ có thể thay đổi hướng của cánh quạt.
+Trang TouchArcade đánh giá Swing Copters cũng sẽ "khó nhằn" không kém gì Flappy Bird, nhưng nhân vật trong game mới đã được thiết kế sinh động hơn, như chớp mắt khi bị rơi xuống.
+Swing Copters sẽ chính thức ra mắt ngày 21/8 nhưng hiện chưa rõ hoạt động trên nền tảng nào. Trò chơi sẽ được tải miễn phí, nhưng người dùng cũng có thể mua với giá 0,99 USD để loại bỏ quảng cáo.

@@ -1,0 +1,8 @@
+Hacker dọa tấn công DDoS, đánh sập máy chủ Pokemon Go - VnExpress Số hóa
+
+Nhóm hacker có tên PoodleCorp tuyên bố vào ngày 1/8, họ sẽ làm gián đoạn trò chơi đang gây sốt trên toàn thế giới.
+
+"Chúng tôi sẽ khiến các máy chủ ngừng hoạt động và không ai có thể ngăn cản điều đó xảy ra. Chúng tôi thực hiện vì chúng tôi hoàn toàn có thể làm được và thích gây ra sự hỗn độn. Chúng tôi chọn ngày 1/8 vì muốn có thời gian thư giãn", một thành viên của PoodleCorp cho biết.
+Nhóm hacker dự định sẽ tiến hành cuộc tấn công từ chối dịch vụ quy mô lớn trong vòng hơn 20 tiếng bằng cách huy động mạng botnet chứa 600.000 thiết bị đã bị khống chế từ máy tính, DVR cho tới máy chủ.
+PoodleCorp khẳng định chính họ đã gây ra những sự cố khiến trò chơi Pokemon Go khó truy cập cuối tuần trước, đồng thời đã tiến hành nhiều cuộc tấn công vào các tài khoản YouTube cũng như máy chủ League of Legends trước đây.
+Lý do PoodleCorp chọn mục tiêu Pokemon Go, trò chơi đang mang lại niềm hứng thú cho hàng triệu người trên toàn cầu, không được tiết lộ. Có thể, nhóm này chỉ muốn chứng tỏ khả năng của bản thân và muốn được nhiều người biết đến.

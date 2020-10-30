@@ -1,0 +1,7 @@
+Nhân viên Nokia 'hack' game trên Windows Store - VnExpress Số hóa
+
+Justin Angel, một kỹ sư Windows Phone thuộc Nokia, đã hướng dẫn người dùng chỉnh sửa game dùng thử thành bản full đồng thời loại bỏ các quảng cáo trong đó.
+
+Ngoài ra, người này còn hướng dẫn các thao tác khác như lấy vật phẩm trong game miễn phí hay đưa mã JavaScript vào để mở khoá các màn chơi mới cho trò chơi Cut The Rope.
+Theo The Verge, các bước tiến hành có phần hơi phức tạp đối với những người dùng Windows 8 bình thường. Tuy nhiên, bản hướng dẫn của Justin Angel vừa tung ra cho thấy việc lấy game trên Windows Store đối với các hacker là điều đơn giản. Để đối phó với các bản vá từ phía các nhà sản xuất game tung ra hàng năm, Justin đã "lưu trữ các dữ liệu đã được mã hoá cùng với các thuật toán ở trong máy và sử dụng thuật giải băm (algorithm hash) để giải quyết vấn đề bảo mật".
+Nguồn tin này cho biết, website hướng dẫn cách hack game của Justin Angel có nhiều người truy cập tới nỗi đang bị tạm ngưng hoạt động với thông báo là "Server offline". Về phía Microsoft, đại diện của hãng phần mềm cho biết họ có "rất nhiều giải pháp để giúp Windows 8 tự vệ được trước hacker".

@@ -1,0 +1,10 @@
+Lộ sức mạnh Galaxy S21 mang tin vui cho người dùng Việt
+
+Cả hai mẫu điện thoại chạy chip Snapdragon và Exynos của Galaxy S21 đã đạt điểm chuẩn Geekbench, và theo kết quả thì phiên bản chạy chip Exynos 1000 đã vượt xa biến thể Snapdragon 875.
+
+Theo một bài đăng trên Reddit, Galaxy S21 dựa trên Exynos 1000 đã đạt được điểm số đơn lõi 1302 và đa lõi 4250. Trong khi đó, phiên bản sử dụng chip Snapdragon 875 có điểm số đơn lõi 1159 và đa lõi 4090. Thông thường Samsung chọn Exynos làm nền tảng chip trang bị trên smartphone cao cấp mà họ phát hành tại Việt Nam, do đó người tiêu dùng Việt hoàn toàn có thể kỳ vọng một sự đột phá về sức mạnh của Galaxy S21 so với phiên bản cho các thị trường như Mỹ.
+Mặc dù vậy, tính hợp pháp của những kết quả này vẫn chưa được xác nhận nên hãy xem chúng chỉ là con số tham khảo. Được biết, Exynos 1000 và Snapdragon 875 đều được sản xuất trên quy trình 5nm của Samsung và có cùng kiến trúc lõi.
+Hồi đầu năm nay, Exynos 990 sử dụng trên Galaxy S20 là chip 7nm với 2 lõi Mongoose, 2 lõi Cortex-A76 và 4 lõi Cortex-A55. Trong khi đó, Snapdragon 865 cũng là chip 7nm nhưng có lõi chính Cortex-A77, 3 lõi Cortex-A77 tốc độ xung nhịp thấp hơn và bộ nhớ đệm nhỏ hơn, cùng 4 lõi Cortex-A55 tiết kiệm điện năng. Chính sức mạnh từ lõi Mongoose kém hơn Cortex-A77 khiến Exynos 990 không thể vượt mặt được Snapdragon 865.
+Tuy nhiên, Samsung đã học được rất nhiều điều kể từ đó và đã từ bỏ tham vọng sử dụng lõi CPU nội bộ của mình. Năm nay, công ty dường như sẽ sử dụng lõi Cortex-X1 của Arm mang lại hiệu suất cao nhất cải thiện 30% so với lõi Cortex-A77. Không có gì đáng ngạc nhiên khi Snapdragon 875 cũng sử dụng Cortex-X1 làm lõi chính.
+Ba lõi còn lại có thể sẽ là Cortex-A78 mới, hứa hẹn tăng 20% hiệu suất khi so sánh với Cortex-A77. Đối với 4 lõi còn lại, chúng có thể sẽ là Cortex-A55.
+Một cấu hình lõi giống hệt nhau không có nghĩa hiệu suất tương tự khi mà một rò rỉ trước đó cho biết Exynos 1000 sẽ tụt hậu so với Snapdragon 875 về cả hiệu năng và đồ họa. Samsung được cho là sẽ sử dụng GPU Mali trên chip cao cấp tiếp theo của mình khi mà GPU tùy chỉnh đầu tiên do AMD sản xuất dự kiến sẽ chỉ đến với chip công ty vào năm 2022.

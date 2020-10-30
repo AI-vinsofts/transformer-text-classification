@@ -1,0 +1,7 @@
+Cụ bà 81 tuổi viết ứng dụng cho iPhone - VnExpress Số hóa
+
+Trên thế giới có hàng chục nghìn lập trình viên ứng dụng di động, nhưng hiếm ai bắt đầu viết game ở tuổi trên 80 như cụ Masako Wakamiya.
+
+Cựu nhân viên ngân hàng đã đề xuất ý tưởng với một số chuyên gia để làm game cho người già nhưng chẳng ai quan tâm. Vì thế, cụ quyết định tự học hỏi và tự làm công việc mà rất nhiều người trẻ chưa làm.
+Ứng dụng đầu tiên của cụ vừa trình làng, mang tên Hinadan dành cho thiết bị iOS. Trò chơi lấy cảm hứng từ lễ hội Búp bê Hinamatsuri của Nhật. Người chơi sẽ trang trí búp bê và đặt chúng vào các vị trí để chuẩn bị cho lễ hội.
+"Tôi mất đến nửa năm để phát triển ứng dụng này", Wakamiya chia sẻ. Cụ lần đầu tiếp xúc với máy tính khi 60 tuổi. "Bạn chẳng cần phải là một chuyên gia. Chỉ cần yêu thích tìm tòi, sáng tạo, bạn có thể tạo ra nhiều thứ. Tôi có rất nhiều ý tưởng và muốn tạo thêm một số ứng dụng nữa, nhưng kỹ năng lập trình của tôi còn kém nên cần thêm thời gian để hoàn thiện".

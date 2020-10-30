@@ -102,22 +102,22 @@ if __name__ == '__main__':
         if args.ckpt_path:
             saver.restore(sess, tf.train.latest_checkpoint(args.ckpt_path))
         softmax = tf.reduce_mean(tf.nn.softmax(model.logits), axis=0)
-        if args.mode == "test":
-            input_dirs = os.listdir(args.input_path)
-            total_examples = 0
-            for ipd in args.input_path:
-                total_examples += len(os.path.join(args.input_path, ipd))
-            y_true = []
-            y_pred = []
-            for idx, input_dir in enumerate(input_dirs):
-                t, c, y_p = _compute_acc_for_class(os.path.join(args.input_path, input_dir), idx)
-                y_true.extend([idx] * len(os.listdir(os.path.join(args.input_path, input_dir))))
-                y_pred.extend(y_p)
-                print("accuracy {:.4f} for class {}".format(c / t, CLASS_NAMES[idx]))
-                total += t
-                correct += c
-            # print("accuracy {}".format(correct / total))
-            print("f1 score {}".format(f1_score(y_true, y_pred, average="micro")))
-            print(confusion_matrix(y_true, y_pred))
-        elif args.mode == "clf":
-            print(CLASS_NAMES[_classify([word2idx.get(w, unk_idx) for w in _format_line(args.prime)])])
+        # if args.mode == "test":
+        #     input_dirs = os.listdir(args.input_path)
+        #     total_examples = 0
+        #     for ipd in args.input_path:
+        #         total_examples += len(os.path.join(args.input_path, ipd))
+        #     y_true = []
+        #     y_pred = []
+        #     for idx, input_dir in enumerate(input_dirs):
+        #         t, c, y_p = _compute_acc_for_class(os.path.join(args.input_path, input_dir), idx)
+        #         y_true.extend([idx] * len(os.listdir(os.path.join(args.input_path, input_dir))))
+        #         y_pred.extend(y_p)
+        #         print("accuracy {:.4f} for class {}".format(c / t, CLASS_NAMES[idx]))
+        #         total += t
+        #         correct += c
+        #     # print("accuracy {}".format(correct / total))
+        #     print("f1 score {}".format(f1_score(y_true, y_pred, average="micro")))
+        #     print(confusion_matrix(y_true, y_pred))
+        # elif args.mode == "clf":
+        print(CLASS_NAMES[_classify([word2idx.get(w, unk_idx) for w in _format_line(args.prime)])])
